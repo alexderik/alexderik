@@ -17,3 +17,8 @@ Com mais de 10 anos de experiência sólida em processos industriais e logístic
 
 ### 🚀 Objetivos
 Busco oportunidades onde eu possa aplicar minha experiência em processos para garantir a qualidade de software (QA) ou atuar no desenvolvimento de soluções que resolvam problemas reais de negócio.
+
+
+---
+
+- 📫 Como me encontrar: [Seu link do LinkedIn aqui](https://www.linkedin.com/in/alexandre-baldoino/)]
