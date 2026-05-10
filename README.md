@@ -21,4 +21,4 @@ Busco oportunidades onde eu possa aplicar minha experiência em processos para g
 
 ---
 
-- 📫 Como me encontrar: [Seu link do LinkedIn aqui](https://www.linkedin.com/in/alexandre-baldoino/)]
+- 📫 Como me encontrar: [Linkedin Alexandre Baldoino](https://www.linkedin.com/in/alexandre-baldoino/)]
