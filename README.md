@@ -1,24 +1,35 @@
 # Olá, eu sou o Alexandre Baldoino 👋
 
-### Especialista em Processos | Engenharia de Software em formação (4º Período)
+### Suporte técnico e análise de processos | Engenharia de Software em formação (5º período)
 
-Com mais de 10 anos de experiência sólida em processos industriais e logística, utilizei sistemas de gestão como **SAP** e **SGA** para otimizar fluxos e resultados. Atualmente, estou em transição para a área de Tecnologia, unindo minha maturidade profissional com o desenvolvimento de software e Quality Assurance (QA).
-
----
-
-### 🛠️ Hard Skills & Ferramentas
-
-* **Gestão & ERP:** SAP e SGA (Domínio de processos e fluxos operacionais).
-* **Análise de Dados:** Power BI, Excel Avançado e Pacote Office Avançado.
-* **Desenvolvimento:** Java (Estudando Spring Boot) e Python (Básico/Intermediário).
-* **Sistemas Operacionais:** Windows e Linux.
+Tenho mais de 10 anos de experiência em operações industriais e logística (Gerdau e VRG Mineração) e hoje atuo na VERO Internet, onde atendo técnicos e parceiros, analiso equipamentos de rede e crio controles em Excel que reduzem divergências na operação. Estou em transição para a área de tecnologia, unindo a vivência de processos com formação em Engenharia de Software.
 
 ---
 
-### 🚀 Objetivos
-Busco oportunidades onde eu possa aplicar minha experiência em processos para garantir a qualidade de software (QA) ou atuar no desenvolvimento de soluções que resolvam problemas reais de negócio.
+### 🛠️ Habilidades
 
+- **Suporte e infraestrutura:** diagnóstico de roteadores Wi-Fi, DNS, Cloudflare e WordPress (uso pessoal), Windows e Linux.
+- **Gestão e ERP:** SAP (uso funcional diário) e SGA.
+- **Dados:** Excel avançado, Power BI e SQL (base de curso técnico e faculdade).
+- **Desenvolvimento:** Java com Spring Boot (API REST) e Python (básico, em estudo).
+- **Nuvem:** Microsoft Azure (máquina virtual e banco de dados, em laboratórios práticos).
+- **Idiomas:** inglês intermediário, em estudo ativo.
 
 ---
 
-- 📫 Como me encontrar: [Linkedin Alexandre Baldoino](https://www.linkedin.com/in/alexandre-baldoino/)]
+### 📚 Em andamento
+
+- Engenharia de Software (UNINTER), formatura prevista para agosto de 2028
+- Formação Python Backend Developer (DIO)
+- English4Tech (DIO)
+- Primeiro projeto de dados: painel de logística e estoque (Python, SQL e Power BI), com dados simulados
+
+---
+
+### 🚀 Objetivo
+
+Atuar em suporte técnico ou análise de dados e processos, aplicando minha experiência de operação em problemas reais de negócio.
+
+---
+
+- 📫 [LinkedIn: Alexandre Baldoino](https://www.linkedin.com/in/alexandre-baldoino/)
